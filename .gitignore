@@ -1,0 +1,4 @@
+*.DotSettings
+packages/
+ShowMessageBug/bin/
+ShowMessageBug/obj/
